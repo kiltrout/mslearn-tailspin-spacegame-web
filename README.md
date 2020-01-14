@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Kabel-DevOps-Learning/Elobo-Y07lab/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Kabel-DevOps-Learning/Elobo-Y07lab/_build/latest?definitionId=213&branchName=master)
 
 # Contributing
 
